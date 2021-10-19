@@ -1,6 +1,6 @@
 # QuoteMe
 
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 12.2.8.
+This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 12.2.8. The project is a web application that enables a user to create quotes and vote for other quotes.
 
 ## Development server
 
